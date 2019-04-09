@@ -1,6 +1,6 @@
 # Coursera-Getting-and-Cleaning-Data-Project
 ## Introduction
-This file forms one component of the materials rwequired for the Coursera Getting and Cleaning Data Project, part of the Data Science specialisation offered by Johns Hopkins: https://www.coursera.org/learn/data-cleaning/home/welcome.
+This file forms one component of the materials required for the Coursera Getting and Cleaning Data Project, part of the Data Science specialisation offered by Johns Hopkins: https://www.coursera.org/learn/data-cleaning/home/welcome.
 
 It describes the files contained in this repository (https://github.com/rthrust/Coursera-Getting-and-Cleaning-Data-Project), the referenced source data, and explains their usage. 
 
